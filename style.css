@@ -127,6 +127,7 @@ section.menu .container .content nav ul.nav-link li ul.menu-child{
     opacity: 0;
     top: 100%;
     text-align: left;
+    z-index: 2;
 }
 section.menu .container .content nav ul.nav-link li ul.menu-child li{
     padding: 15px 10px;
